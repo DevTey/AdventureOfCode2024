@@ -1,1 +1,1 @@
-npm i para iniciar o projeto
+`npm i para iniciar o projeto`
